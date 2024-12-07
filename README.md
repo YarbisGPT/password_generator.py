@@ -24,7 +24,9 @@ Este script en Python genera contraseñas aleatorias seguras con opciones person
 
 Tu contraseña generada es:  
 hDjwkLmNsPq9
-Personalización
+
+Personalización:
+
 El código puede ajustarse para incluir más opciones o adaptarse a diferentes requisitos.
 
 Contribuciones
