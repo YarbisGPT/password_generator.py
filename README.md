@@ -29,6 +29,3 @@ El código puede ajustarse para incluir más opciones o adaptarse a diferentes r
 
 Contribuciones
 Si tienes ideas para mejorar este generador, ¡eres bienvenido a abrir un issue o enviar un pull request!
-
-Licencia
-Este proyecto está bajo la licencia MIT.
